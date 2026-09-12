@@ -26,18 +26,18 @@ Take the courses **in order** — later ones assume the earlier ones. **Do the l
 
 | # | Course | Hrs | Cum. | Lessons | What it covers |
 |:--:|---|--:|--:|:--:|---|
-| 1 | [AI Fluency: Framework & Foundations](https://academy.claude.com/courses/ai-fluency-framework-foundations) ▶ | 4.0 | 4.0 | 14 · 1 quiz | The 4D framework: Delegation, Description, Discernment, Diligence |
+| 1 | ▶ [AI Fluency: Framework & Foundations](https://academy.claude.com/courses/ai-fluency-framework-foundations) | 4.0 | 4.0 | 14 · 1 quiz | The 4D framework: Delegation, Description, Discernment, Diligence |
 | 2 | [Claude 101](https://academy.claude.com/courses/claude-101) | 2.5 | 6.5 | 13 · 1 quiz | Everyday work: prompting, projects, artifacts, skills, connected tools |
 | 3 | [Introduction to Claude Cowork](https://academy.claude.com/courses/introduction-to-claude-cowork) | 2.5 | 9.0 | 14 · 1 quiz | Delegating multi-step work: workspaces, context, task loops, plugins |
 | 4 | [Claude Platform 101](https://academy.claude.com/courses/claude-platform-101) | 1.5 | 10.5 | 13 · 1 quiz | Building on the Claude Platform from the ground up |
 | 5 | [Claude Code 101](https://academy.claude.com/courses/claude-code-101) | 1.5 | 12.0 | 12 · 1 quiz | Navigating a codebase, issuing commands, standardizing your workflow |
 | 6 | [Claude Code in Action](https://academy.claude.com/courses/claude-code-in-action) | 1.0 | 13.0 | 9 · 1 quiz | Long hands-off sessions: steer, configure, automate, verify |
 | 7 | [AI Capabilities and Limitations](https://academy.claude.com/courses/ai-capabilities-and-limitations) | 3.5 | 16.5 | 13 · 1 quiz | What Claude does well, where the boundaries are, common pitfalls |
-| 8 | [Building with the Claude API](https://academy.claude.com/courses/building-with-the-claude-api) ↺ | 9.0 | 25.5 | 67 · 8 quizzes | Requests, system prompts, response formats, app integration |
+| 8 | ↺ [Building with the Claude API](https://academy.claude.com/courses/building-with-the-claude-api) | 9.0 | 25.5 | 67 · 8 quizzes | Requests, system prompts, response formats, app integration |
 | 9 | [Introduction to Model Context Protocol](https://academy.claude.com/courses/introduction-to-model-context-protocol) | 1.0 | 26.5 | 10 · 1 quiz | Connecting Claude to external data and tools; server/client architecture |
-| 10 | [Model Context Protocol: Advanced Topics](https://academy.claude.com/courses/model-context-protocol-advanced-topics) ⚑ | 1.5 | 28.0 | 11 · 1 quiz | Custom servers, secure auth, multi-tool workflows — **do the lab** |
-| 11 | [Claude with Amazon Bedrock](https://academy.claude.com/courses/claude-with-amazon-bedrock) ↺ | 8.0 | 36.0 | 65 · 8 quizzes | Deploying and scaling Claude in enterprise cloud via Bedrock |
-| 12 | [Claude with Google Cloud's Vertex AI](https://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai) ↺ | 8.5 | 44.5 | 66 · 9 quizzes | The same as course 11, via Vertex AI |
+| 10 | ⚑ [Model Context Protocol: Advanced Topics](https://academy.claude.com/courses/model-context-protocol-advanced-topics) | 1.5 | 28.0 | 11 · 1 quiz | Custom servers, secure auth, multi-tool workflows — **do the lab** |
+| 11 | ↺ [Claude with Amazon Bedrock](https://academy.claude.com/courses/claude-with-amazon-bedrock) | 8.0 | 36.0 | 65 · 8 quizzes | Deploying and scaling Claude in enterprise cloud via Bedrock |
+| 12 | ↺ [Claude with Google Cloud's Vertex AI](https://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai) | 8.5 | 44.5 | 66 · 9 quizzes | The same as course 11, via Vertex AI |
 | 13 | [Deploying Claude Enterprise with Confidence](https://academy.claude.com/courses/deploying-claude-enterprise-with-confidence) | 2.5 | 47.0 | 14 · 1 quiz | Governance, security, risk, data privacy, compliance, user management |
 | 14 | [Building Effective Human Agent Teams (Beta)](https://academy.claude.com/courses/building-effective-human-agent-teams) | 0.75 | 47.75 | 5 · 1 quiz | **Capstone.** Multi-agent systems, AI↔human hand-offs, autonomous workflows |
 | | **Core total** | **47.75** | | **326 · 36 quizzes** | |
