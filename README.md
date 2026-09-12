@@ -8,10 +8,12 @@ While Studying, you will notice a lot of the courses will be regurgitated inform
 https://academy.claude.com/
 
 Begin Here 
-1. **AI Fluency:** Framework & Foundations Learn to collaborate with AI effectively, efficiently, ethically, and safely using the 4D framework: Delegation, Description, Discernment, and Diligence. 14 lessons · 1 quiz 
+## AI Fluency
+Framework & Foundations Learn to collaborate with AI effectively, efficiently, ethically, and safely using the 4D framework: Delegation, Description, Discernment, and Diligence. 14 lessons · 1 quiz 
 4 hr
 
-2. **Claude 101:** Learn to use Claude for everyday work, from your first conversation and effective prompting to projects, artifacts, skills, and connected tools. 
+## 2. Claude 101
+Learn to use Claude for everyday work, from your first conversation and effective prompting to projects, artifacts, skills, and connected tools. 
 13 lessons · 1 quiz 
 2.5 hr
 
